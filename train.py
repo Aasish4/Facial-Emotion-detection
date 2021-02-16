@@ -103,7 +103,7 @@ data_generator = ImageDataGenerator(
 
 """## MODEL DEFINITION"""
 
-from model.model import mini_xception
+from Model.model import mini_xception
 
 # model parameters
 batch_size= 128
