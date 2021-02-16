@@ -9,4 +9,18 @@ An face emotion recognition system comprises of two step process i.e. face detec
 ### Dataset
 The dataset used for training is [FER2013](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data), which can be easily downloaded from kaggle. Download the dataset and extract the content into ./data folder.
 
+### Installation
+`pip install -r requirements.txt`
+
+## Instructions
+### Training the model
+`!python3 Train.py`
+
+### Test the model
+`!python3 Test.py`
+
+Use the above code for testing the model. You can download the pretrained [weight](https://drive.google.com/file/d/10ePJ9m-lFqopzfLV7dSp2cIzATN3zhh2/view?usp=sharing) file trained on fer2013 dataset.
+
+## Output
+
 
