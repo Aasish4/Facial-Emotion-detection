@@ -22,5 +22,5 @@ The dataset used for training is [FER2013](https://www.kaggle.com/c/challenges-i
 Use the above code for testing the model. You can download the pretrained [weight](https://drive.google.com/file/d/10ePJ9m-lFqopzfLV7dSp2cIzATN3zhh2/view?usp=sharing) file trained on fer2013 dataset.
 
 ## Output
-
+![image](https://github.com/Aasish4/Facial-Emotion-detection/blob/main/Images/output.jpg)
 
